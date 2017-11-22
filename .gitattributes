@@ -1,0 +1,9 @@
+*.[Pp][Nn][Gg] filter=lfs diff=lfs merge=lfs -text
+*.[Pp][Ss][Dd] filter=lfs diff=lfs merge=lfs -text
+*.[Mm][Pp]3 filter=lfs diff=lfs merge=lfs -text
+*.[Mm][Pp]4 filter=lfs diff=lfs merge=lfs -text
+*.[Ww][Aa][Vv] filter=lfs diff=lfs merge=lfs -text
+*.[Ff][Bb][Xx] filter=lfs diff=lfs merge=lfs -text
+*.[Xx][Cc][Ff] filter=lfs diff=lfs merge=lfs -text
+*_[Ll][Ff][Ss].* filter=lfs diff=lfs merge=lfs -text
+*.prefab filter=lfs diff=lfs merge=lfs -text
